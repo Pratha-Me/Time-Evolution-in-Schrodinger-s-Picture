@@ -75,9 +75,12 @@ while j < n:
 
     ham[j,j] = (0.5*dt*1.j)/(dx**2)
 
-    if j < n-1:
+    try:
         ham[j,j+1] = (0.5*dt*1.j)*(-1)*0.5/(dx**2)
         ham[j+1,j] = (0.5*dt*1.j)*(-1)*0.5/(dx**2)
+
+    except IndexError:
+        break
 
     j += 1
 
