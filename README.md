@@ -8,6 +8,3 @@ Both file will produce identical result.
 The animation produced by the python file is demonstration of time evolution of Gaussian Wavefunction by using 
 Cranck-Nicholson algorithm.
 
-If you are interested in learning more about the program, please contact me pratha.mero@gmail.com
-
-Thank you.
