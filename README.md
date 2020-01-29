@@ -1,5 +1,5 @@
 # Time-Evolution-of-the-Wavefunction
-Time evolution of the Gaussian wave by Schrödinger's Picture in Quantum Mechanics
+The two python files will produce an animation for the Time evolution of the Gaussian wave by Schrödinger's Picture in Quantum Mechanics. 
 
 Ignore the file dum.py and download the two python codes. 
 
