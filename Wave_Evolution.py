@@ -25,13 +25,12 @@ class wave(object):
    def __init__(self,w,u,n):
 
       maplist = [w,u]
-      (self.ini_w, self.unit_optr) = map(np.asarray, maplist)
-      assert self.ini_w.shape == (n,1)
-      assert self.unit_optr.shape == (n,n)
 
       # Both 'ini_w' and 'unit_optr' are '@PUBLIC variable/attribute/field'
-      self.ini_w = w
-      self.unit_optr = u
+      (self.ini_w, self.unit_optr) = map(np.asarray, maplist)
+
+      assert self.ini_w.shape == (n,1)
+      assert self.unit_optr.shape == (n,n)
    #------------------------------------------------------------------
 
    # THE TIME EVOLUTION IS CARRIED OUT INSIDE THIS METHOD.------------
