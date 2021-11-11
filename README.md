@@ -9,3 +9,7 @@ Both file will produce identical result.
 The animation produced by the python file is demonstration of time evolution of Gaussian Wavefunction by using 
 Cranck-Nicholson algorithm.
 
+<video width="320" height="240" controls>
+<source src="animation/schrodinger_barrier.mp4" type="video/mp4">
+</video>
+
