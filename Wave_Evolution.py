@@ -144,7 +144,7 @@ def animate(i):
 # CALL THE ANIMATOR.  blit=true MEANS ONLY RE-DRAW THE PARTS THAT HAVE CHANGED.
 anim = animation.FuncAnimation(fig, animate, init_func=init,\
                                frames=t, interval=30, blit=False)
-anim = anim.save('schrodinger_barrier.mp4', fps=20, extra_args=['-vcodec', 'libx264'])
+#anim = anim.save('schrodinger_barrier.mp4', fps=20, extra_args=['-vcodec', 'libx264'])
 plt.show()
 
 #----------------------------------------------------------------------------------------------
