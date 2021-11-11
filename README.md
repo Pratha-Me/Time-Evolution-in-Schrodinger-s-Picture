@@ -6,7 +6,6 @@ Run one file at a time in Linux or in Mac as ~$ python3 Wave_Evolution.py or ~$ 
 The animation produced by the python file is a demonstration of time evolution of Gaussian Wavefunction by using 
 Cranck-Nicholson algorithm. The system comprises a positive Potential well and 1-D box inside which am energetic particle is trapped. 
 
-<video width="320" height="240" controls>
-<source src="https://github.com/Pratha-Me/Time-Evolution-in-Schrodinger-s-Picture/blob/master/animation/schrodinger_barrier.mp4" type="video/mp4">
-</video>
+A demo of the animation from file "Wave_Evolution.py" is below.
 
+![Animation](https://user-images.githubusercontent.com/54431907/141235433-f4237f94-09cf-45f5-bbf4-e3ec930598d5.mp4)
