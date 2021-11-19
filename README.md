@@ -8,4 +8,5 @@ Cranck-Nicholson algorithm. The system comprises a positive Potential well and 1
 
 A demo of the animation from file "Wave_Evolution.py" is below.
 
-![Animation](https://user-images.githubusercontent.com/54431907/141235433-f4237f94-09cf-45f5-bbf4-e3ec930598d5.mp4)
+<video src='https://user-images.githubusercontent.com/54431907/141235433-f4237f94-09cf-45f5-bbf4-e3ec930598d5.mp4' width=720/>
+<!-- ![Animation](https://user-images.githubusercontent.com/54431907/141235433-f4237f94-09cf-45f5-bbf4-e3ec930598d5.mp4) -->
